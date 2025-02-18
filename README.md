@@ -43,8 +43,8 @@ Once the models are trained and evaluated, use FINAL_SHAP_ResNET.ipynb to perfor
 * Numpy
 
 ## Contributors
-* Bharati Panigrahi
 * Khushi Naik
+* Bharati Panigrahi
 * Tanaya Tamhankar
 * Chetan Sah
 # Skin-Cancer-Detection-and-XAI
